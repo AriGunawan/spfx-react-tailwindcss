@@ -11,6 +11,7 @@ import { IReadonlyTheme } from '@microsoft/sp-component-base';
 import * as strings from 'HelloTailwindWebPartStrings';
 import HelloTailwind from './components/HelloTailwind';
 import { IHelloTailwindProps } from './components/IHelloTailwindProps';
+import '../../../assets/dist/tailwind.css';
 
 export interface IHelloTailwindWebPartProps {
   description: string;
