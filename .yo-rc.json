@@ -1,11 +1,15 @@
 {
   "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
     "isCreatingSolution": true,
-    "environment": "spo",
-    "version": "1.11.0",
+    "version": "1.15.0",
     "libraryName": "spfx-react-tailwindcss",
-    "libraryId": "8f6c15c5-7875-4061-bf37-f9904f7be458",
+    "libraryId": "f4870c1f-c608-445a-b4f0-150e1311eeee",
+    "environment": "spo",
     "packageManager": "npm",
+    "solutionName": "spfx-react-tailwindcss",
+    "solutionShortDescription": "spfx-react-tailwindcss description",
+    "skipFeatureDeployment": true,
     "isDomainIsolated": false,
     "componentType": "webpart"
   }
